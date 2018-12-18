@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34060" started-at="2018-12-10T04:05:36Z" finished-at="2018-12-10T04:06:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34060" started-at="2018-12-10T04:05:36Z" finished-at="2018-12-10T04:06:10Z">
+      <class name="com.curahealthecareTestNG.Test.MakeAppoitment.MakeAppointmentTest">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.curahealthecareTestNG.Test.MakeAppoitment.MakeAppointmentTest@47c62251]" name="setUpTest" is-config="true" duration-ms="257" started-at="2018-12-10T04:05:36Z" finished-at="2018-12-10T04:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.curahealthecareTestNG.Test.MakeAppoitment.MakeAppointmentTest@47c62251]" name="setUp" is-config="true" duration-ms="11916" started-at="2018-12-10T04:05:37Z" finished-at="2018-12-10T04:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="makeAppointmentTest()[pri:0, instance:com.curahealthecareTestNG.Test.MakeAppoitment.MakeAppointmentTest@47c62251]" name="makeAppointmentTest" duration-ms="20184" started-at="2018-12-10T04:05:49Z" finished-at="2018-12-10T04:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makeAppointmentTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.curahealthecareTestNG.Test.MakeAppoitment.MakeAppointmentTest@47c62251]" name="tearDown" is-config="true" duration-ms="1162" started-at="2018-12-10T04:06:09Z" finished-at="2018-12-10T04:06:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=makeAppointmentTest status=SUCCESS method=MakeAppointmentTest.makeAppointmentTest()[pri:0, instance:com.curahealthecareTestNG.Test.MakeAppoitment.MakeAppointmentTest@47c62251] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:com.curahealthecareTestNG.Test.MakeAppoitment.MakeAppointmentTest@47c62251]" name="tearDownTest" is-config="true" duration-ms="515" started-at="2018-12-10T04:06:10Z" finished-at="2018-12-10T04:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.curahealthecareTestNG.Test.MakeAppoitment.MakeAppointmentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
